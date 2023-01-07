@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16fbf07e-304e-452e-af1d-36e3270f6493" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +17,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -27,7 +28,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JzA7lo2Yq602XoQmm29N4qYgAd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -61,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673070374238</updated>
-      <workItem from="1673070376172" duration="1636000" />
+      <workItem from="1673070376172" duration="1972000" />
     </task>
     <task id="LOCAL-00001" summary="Created directories for css,images and javascript and Loaded all related pngs and images for img directory. After created main html of index.html">
       <created>1673071282171</created>
@@ -70,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673071282171</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finalized all css files">
+      <created>1673076129914</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673076129914</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created directories for css,images and javascript and Loaded all related pngs and images for img directory. After created main html of index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created directories for css,images and javascript and Loaded all related pngs and images for img directory. After created main html of index.html" />
+    <MESSAGE value="Finalized all css files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalized all css files" />
   </component>
 </project>
